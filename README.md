@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![(screenshot.png)]
+![/assets/images/screenshot-social-links-profile.png]
 
 
 ### Links
