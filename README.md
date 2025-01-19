@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![/Users/ericasmibert/Projects/social-links-profile-main/screenshot.png]
+![]
 
 
 ### Links
