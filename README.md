@@ -14,8 +14,6 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
   - [Continued development](#continued-development)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -26,8 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![/assets/images/screenshot-social-links-profile.png]
-
+![Screenshot of the Social Links Profile Project](/assets/images/screenshot-social-links-profile.png)
 
 ### Links
 
@@ -49,7 +46,6 @@ This project helped me understand the importance of accessibility and responsive
 - Semantic HTML: Using <main>, <footer>, and <button> with appropriate aria-labels improves screen reader accessibility.
 - Hover and Active States: Adding visual cues to buttons enhances user experience.
 - Media Queries: I implemented a responsive design using a @media rule for small screens
-
 
 ### Continued development
 
